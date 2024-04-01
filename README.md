@@ -1,5 +1,5 @@
 # AES
-AES modes using Crypto++ API
+AES modes using Crypto++ API. This does CBC encrypt/decryt using PKSC#5 padding
 
 There are mainly three key files
    1. AesClass..h - Definitions for CBC and CTR mode methods
